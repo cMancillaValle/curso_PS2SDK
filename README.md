@@ -127,9 +127,9 @@ El curso avanza mediante lecciones progresivas, ejemplos comentados y evaluacion
 
 ## Estado actual
 
-Los bloques 00 y 01 están completados. Se han estudiado los fundamentos del ecosistema PS2, la organización del código en C, los punteros, las estructuras, las enumeraciones, la memoria dinámica y la separación entre declaraciones e implementaciones mediante archivos `.h` y `.c`.
+Los bloques 00, 01 y 02 están completados. Se ha estudiado el ecosistema homebrew de PlayStation 2, los fundamentos de C, la organización modular del código mediante archivos `.h` y `.c`, el proceso de compilación, las herramientas de compilación cruzada, la automatización mediante Makefiles y la generación y el análisis de ejecutables ELF.
 
-**Siguiente etapa:** Bloque 02, donde comenzaremos a trabajar con el proceso de compilación, los Makefiles y la generación de ejecutables ELF para PlayStation 2.
+**Siguiente etapa:** Bloque 03, donde comenzaremos a trabajar con la salida de vídeo y la interfaz gráfica de ETN (ELFtation Navigator), dando los primeros pasos hacia la interfaz visual del explorador de archivos.
 
 ---
 
