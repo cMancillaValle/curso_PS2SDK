@@ -35,7 +35,7 @@ El proyecto se desarrollará por etapas, integrando los conocimientos de cada bl
 |---|---|---|
 | 00 | El ecosistema PS2 | CERRADO |
 | 01 | Fundamentos de C para ETN | CERRADO |
-| 02 | Compilación, Makefile y generación de ELF | PENDIENTE |
+| 02 | Compilación, Makefile y generación de ELF | CERRADO |
 | 03 | Video e interfaz gráfica | PENDIENTE |
 | 04 | Entrada del usuario y DualShock 2 | PENDIENTE |
 | 05 | Memoria y almacenamiento | PENDIENTE |
@@ -72,6 +72,13 @@ Lecciones:
 ### Bloque 02: Compilación, Makefile y generación de ELF
 
 **Objetivo:** comprender el proceso de compilación para PS2, organizar la construcción del proyecto y generar ejecutables ELF.
+
+Lecciones:
+
+1. Proceso de compilación.
+2. Compilar para PlayStation 2.
+3. Makefile y automatización de la compilación.
+4. Generación de ELF y análisis del ejecutable.
 
 ### Bloque 03: Video e interfaz gráfica
 
