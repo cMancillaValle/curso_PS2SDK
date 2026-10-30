@@ -36,7 +36,7 @@ El proyecto se desarrollará por etapas, integrando los conocimientos de cada bl
 | 00 | El ecosistema PS2 | CERRADO |
 | 01 | Fundamentos de C para ETN | CERRADO |
 | 02 | Compilación, Makefile y generación de ELF | CERRADO |
-| 03 | Video e interfaz gráfica | PENDIENTE |
+| 03 | Video e interfaz gráfica | EN PROGRESO |
 | 04 | Entrada del usuario y DualShock 2 | PENDIENTE |
 | 05 | Memoria y almacenamiento | PENDIENTE |
 | 06 | Operaciones con el sistema de archivos | PENDIENTE |
@@ -82,7 +82,12 @@ Lecciones:
 
 ### Bloque 03: Video e interfaz gráfica
 
-**Objetivo:** estudiar el sistema de video de PS2 e implementar los primeros elementos visuales de ETN.
+**Objetivo:** estudiar el sistema gráfico de PlayStation 2 e implementar los primeros elementos visuales de ETN mediante PS2SDK y GSKit.
+
+Lecciones:
+
+1. Sistema gráfico de PlayStation 2.
+2. Inicialización gráfica y dibujo básico.
 
 ### Bloque 04: Entrada del usuario y DualShock 2
 
@@ -129,7 +134,9 @@ El curso avanza mediante lecciones progresivas, ejemplos comentados y evaluacion
 
 Los bloques 00, 01 y 02 están completados. Se ha estudiado el ecosistema homebrew de PlayStation 2, los fundamentos de C, la organización modular del código mediante archivos `.h` y `.c`, el proceso de compilación, las herramientas de compilación cruzada, la automatización mediante Makefiles y la generación y el análisis de ejecutables ELF.
 
-**Siguiente etapa:** Bloque 03, donde comenzaremos a trabajar con la salida de vídeo y la interfaz gráfica de ETN (ELFtation Navigator), dando los primeros pasos hacia la interfaz visual del explorador de archivos.
+Actualmente se encuentra en desarrollo el Bloque 03, dedicado al sistema de video y la interfaz gráfica. Ya se estudiaron los fundamentos del sistema gráfico de PS2 y se desarrolló un primer programa mediante GSKit, capaz de dibujar un fondo azul y un rectángulo blanco. El ejecutable fue compilado y probado exitosamente en una PlayStation 2 física.
+
+**Siguiente etapa:** continuar el Bloque 03 y ampliar progresivamente las capacidades gráficas necesarias para construir la interfaz de ELFtation Navigator (ETN).
 
 ---
 
