@@ -88,6 +88,7 @@ Lecciones:
 
 1. Sistema gráfico de PlayStation 2.
 2. Inicialización gráfica y dibujo básico.
+3. Coordenadas y composición de interfaz.
 
 ### Bloque 04: Entrada del usuario y DualShock 2
 
@@ -132,11 +133,11 @@ El curso avanza mediante lecciones progresivas, ejemplos comentados y evaluacion
 
 ## Estado actual
 
-Los bloques 00, 01 y 02 están completados. Se ha estudiado el ecosistema homebrew de PlayStation 2, los fundamentos de C, la organización modular del código mediante archivos `.h` y `.c`, el proceso de compilación, las herramientas de compilación cruzada, la automatización mediante Makefiles y la generación y el análisis de ejecutables ELF.
+Actualmente se encuentra en desarrollo el Bloque 03, dedicado al sistema de video y la interfaz gráfica. Se estudiaron los fundamentos del sistema gráfico de PS2, la inicialización mediante GSKit, el dibujo de primitivas, el sistema de coordenadas y la composición de interfaces mediante paneles.
 
-Actualmente se encuentra en desarrollo el Bloque 03, dedicado al sistema de video y la interfaz gráfica. Ya se estudiaron los fundamentos del sistema gráfico de PS2 y se desarrolló un primer programa mediante GSKit, capaz de dibujar un fondo azul y un rectángulo blanco. El ejecutable fue compilado y probado exitosamente en una PlayStation 2 física.
+Como parte de las prácticas se desarrolló una primera maqueta visual para ETN, con una barra superior, un panel lateral y un área principal. También se implementaron elementos dinámicos, selección visual mediante colores, distribución automática y control de límites para evitar que los elementos excedan el espacio disponible.
 
-**Siguiente etapa:** continuar el Bloque 03 y ampliar progresivamente las capacidades gráficas necesarias para construir la interfaz de ELFtation Navigator (ETN).
+Los programas gráficos desarrollados hasta el momento fueron compilados y probados exitosamente en una PlayStation 2 física.
 
 ---
 
